@@ -31,10 +31,12 @@ e) In Single Process Search Engine, modify the crawl web to get multiple seed pa
 f) Get the seed page/ multiple seed links from the user interactively using command line inputs.
 
 Parallelize the Ranking
+
 a) Chunk the graph and assign it into each process to compute rank for the web pages.
 b) Consolidate the rank results.
 
 Distributed Process of Search Engine (Hadoop)
+
 a) Understand Map/Reduce Concepts
 b) Write mapper_search and reducer_search code
 c) Try it on Single-node; Compare the performance with Single/Normal version of search engine.
